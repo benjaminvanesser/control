@@ -68,7 +68,7 @@ SAVE/OPEN/DELETE
 
 SERIALOSC BRIDGE
 
-a M4L device that enables autofocus is included in the zip file
+a M4L device that enables autofocus for 'control' is included in the zip file. simply drag it into Ableton and select your grid in serialosc (should auto-connect)
 
 
 TROUBLESHOOTING
