@@ -1,4 +1,4 @@
-# control
+# [control] open MIDI controller platform for 128 grids
 
 Open MIDI controller platform for 128 grids
 
@@ -64,6 +64,11 @@ SAVE/OPEN/DELETE
 - apart from individually deleting controls you can choose to delete all by clicking the button next to ‘clear all’ or by pressing the 'clear all' button on the shift page. Deleting all controls takes some time (monitor in patcher and to lefthand corner).
 
 - take a 'snapshot' of your controller's state by saving a preset.
+
+
+SERIALOSC BRIDGE
+
+a M4L device that enables autofocus is included in the zip file
 
 
 TROUBLESHOOTING
