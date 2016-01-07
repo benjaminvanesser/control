@@ -11223,7 +11223,7 @@
 ,
 					"style" : "",
 					"text" : "pattr",
-					"varname" : "u274000485"
+					"varname" : "u043000464"
 				}
 
 			}
@@ -13175,8 +13175,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
-									"fontsize" : [ 12.059008 ]
+									"fontsize" : [ 12.059008 ],
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -13283,7 +13283,7 @@
 ,
 					"style" : "",
 					"text" : "pattr",
-					"varname" : "u664000509"
+					"varname" : "u658000488"
 				}
 
 			}
@@ -13302,7 +13302,7 @@
 ,
 					"style" : "",
 					"text" : "pattr",
-					"varname" : "u016000511"
+					"varname" : "u041000490"
 				}
 
 			}
@@ -13321,7 +13321,7 @@
 ,
 					"style" : "",
 					"text" : "pattr",
-					"varname" : "u417000513"
+					"varname" : "u037000492"
 				}
 
 			}
@@ -16172,8 +16172,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
-									"fontsize" : [ 12.059008 ]
+									"fontsize" : [ 12.059008 ],
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -18082,7 +18082,7 @@
 ,
 									"style" : "",
 									"text" : "pattr",
-									"varname" : "u743000574"
+									"varname" : "u205000553"
 								}
 
 							}
@@ -18128,7 +18128,7 @@
 ,
 									"style" : "",
 									"text" : "pattr",
-									"varname" : "u531000577"
+									"varname" : "u871000556"
 								}
 
 							}
@@ -23917,8 +23917,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
-									"fontsize" : [ 12.059008 ]
+									"fontsize" : [ 12.059008 ],
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -27854,8 +27854,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
-									"fontsize" : [ 12.059008 ]
+									"fontsize" : [ 12.059008 ],
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -28390,7 +28390,7 @@
 									"numoutlets" : 0,
 									"patching_rect" : [ 389.0, 482.0, 118.0, 23.0 ],
 									"presentation" : 1,
-									"presentation_rect" : [ 159.0, 1852.0, 120.0, 23.0 ],
+									"presentation_rect" : [ 160.0, 1943.0, 120.0, 23.0 ],
 									"style" : "",
 									"text" : "Benjamin Van Esser",
 									"textcolor" : [ 0.985155, 0.749526, 0.142007, 1.0 ],
@@ -28408,7 +28408,7 @@
 									"outlettype" : [ "bang", "bang", "", "int" ],
 									"patching_rect" : [ 389.0, 482.0, 124.0, 19.994741 ],
 									"presentation" : 1,
-									"presentation_rect" : [ 156.150635, 1852.0, 125.69873, 19.994741 ]
+									"presentation_rect" : [ 157.150635, 1943.0, 125.69873, 19.994741 ]
 								}
 
 							}
@@ -28421,7 +28421,7 @@
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 162.0, 215.0, 147.0, 52.0 ],
+									"patching_rect" : [ 162.0, 215.0, 147.0, 37.0 ],
 									"presentation" : 1,
 									"presentation_rect" : [ 203.0, 84.0, 249.0, 22.0 ],
 									"style" : "",
@@ -28507,16 +28507,16 @@
 									"fontname" : "Avenir Medium",
 									"fontsize" : 11.0,
 									"id" : "obj-16",
-									"linecount" : 129,
+									"linecount" : 136,
 									"maxclass" : "comment",
 									"numinlets" : 1,
 									"numoutlets" : 0,
-									"patching_rect" : [ 15.0, 165.0, 281.0, 1960.0 ],
+									"patching_rect" : [ 15.0, 165.0, 285.0, 2065.0 ],
 									"presentation" : 1,
-									"presentation_linecount" : 95,
-									"presentation_rect" : [ 68.0, 486.0, 539.0, 1434.0 ],
+									"presentation_linecount" : 101,
+									"presentation_rect" : [ 68.0, 486.0, 540.0, 1539.0 ],
 									"style" : "",
-									"text" : "CREATING CONTROLS\n\n- press and hold down the shift key\n- choose “create” in the “mode menu”\n- select which control type to create in the “controls menu”\n- release the shift key\n- now, pushing a button on the grid draws the chosen control type onto that position\n—> the slow blinking shift-key indicates that you are in “create” mode\n- controls can be created in 16 pages (top row on shift page)\n\nspecifics :\n\nfaders : pushing any button in a column (except for the shift button) will result in creating a fader\n- fader speed and mode (auto or manual) can be edited in the patch\n\nmomentary : pushing any button on the grid (except for the shift button) will create a momentary button\n\ntoggle : pushing any button on the grid (except for the shift button) will create a toggle button\n\nxy : pushing any button in either left or right quadrant (except for the bottom row) will result in creating a xy-pad. xy-pads span a 7x7 grid of buttons, leaving the bottom row open for other controls. ball speed can be edited in the left- or righthand column in performance mode.\n\nkeyboard : pushing a button somewhere near the middle of the grid results in creating a keyboard. ptions on keyboard layout appear when selecting the keyboard in the 'contols' menu. base : set the lowest note of the keyboard; interval : set the row interval. there can be only one keyboard per page. \n\n\nDELETING CONTROLS\n\n- press and hold down the shift key\n- choose “delete” in the “mode menu”\n- select which control type to delete in the “controls menu”\n- release the shift key\n- now, pushing a button on the grid deletes the chosen control on that position\n—> the fast blinking shift-key indicates that you are in “delete controls” mode\n\n\nMIDI-OUT SETUP\n\n- go to Audio MIDI Setup\n- create an IAC device, call it 'control'\n-> MIDI output for control is set to 'IAC Driver control' by default. Make sure to enable your MIDI input in your DAW.  \n\n\nPERFORMANCE\n\n- after creating or deleting controls, be sure to enable “performance mode” before you start mapping/playing.\n\n- now you can map the controls in your DAW (f.i. enable MIDI mapping mode in Ableton Live, click on the control you want to map in the software, then touch the controller on the grid)\n\n\nAUTOMATION\n\npress button below the 'page button' once to start recording button presses on the corresponding page, press again to playback, press once more to stop playback. automation is not quantized\n\n\nSAVE/OPEN/DELETE\n\n- once you’ve created your layout you can save it by clicking the save button under 'layout'. \n\n- to open your layout click ‘open’ and select the previously saved file. never open a new preset before clearing all previously created controls. Opening a preset takes some time (monitor in patcher).\n\n- apart from individually deleting controls you can choose to delete all by clicking the button next to ‘clear all’ or by pressing the 'clear all' button on the shift page. Deleting all controls takes some time (monitor in patcher and to lefthand corner).\n\n- take a 'snapshot' of your controller's state by saving a preset.\n\n\nTROUBLESHOOTING\n\nNever open a layout or preset before clearing the ones that are active. This could result in ‘phantom’ controls that interfere with the intended controls. To fix this problem, Quit the app, restart and reload layout and preset.\n\nToo hasty drawing could result in double entries. This will result in ‘phantom’ controls that interfere with the intended controls. To fix this problem, Quit the app, restart and reload layout and preset.\n\nIf mapping your controller doesn't work, reselect MIDI-out path.\n\n\n\n\n\n\nPatch created by                                         2015\n\n\n\n",
+									"text" : "CREATING CONTROLS\n\n- press and hold down the shift key\n- choose “create” in the “mode menu”\n- select which control type to create in the “controls menu”\n- release the shift key\n- now, pushing a button on the grid draws the chosen control type onto that position\n—> the slow blinking shift-key indicates that you are in “create” mode\n- controls can be created in 16 pages (top row on shift page)\n\nspecifics :\n\nfaders : pushing any button in a column (except for the shift button) will result in creating a fader\n- fader speed and mode (auto or manual) can be edited in the patch\n\nmomentary : pushing any button on the grid (except for the shift button) will create a momentary button\n\ntoggle : pushing any button on the grid (except for the shift button) will create a toggle button\n\nxy : pushing any button in either left or right quadrant (except for the bottom row) will result in creating a xy-pad. xy-pads span a 7x7 grid of buttons, leaving the bottom row open for other controls. ball speed can be edited in the left- or righthand column in performance mode.\n\nkeyboard : pushing a button somewhere near the middle of the grid results in creating a keyboard. ptions on keyboard layout appear when selecting the keyboard in the 'contols' menu. base : set the lowest note of the keyboard; interval : set the row interval. there can be only one keyboard per page. \n\n\nDELETING CONTROLS\n\n- press and hold down the shift key\n- choose “delete” in the “mode menu”\n- select which control type to delete in the “controls menu”\n- release the shift key\n- now, pushing a button on the grid deletes the chosen control on that position\n—> the fast blinking shift-key indicates that you are in “delete controls” mode\n\n\nMIDI-OUT SETUP\n\n- go to Audio MIDI Setup\n- create an IAC device, call it 'control'\n-> MIDI output for control is set to 'IAC Driver control' by default. Make sure to enable your MIDI input in your DAW.  \n\n\nPERFORMANCE\n\n- after creating or deleting controls, be sure to enable “performance mode” before you start mapping/playing.\n\n- now you can map the controls in your DAW (f.i. enable MIDI mapping mode in Ableton Live, click on the control you want to map in the software, then touch the controller on the grid)\n\n\nAUTOMATION\n\npress button below the 'page button' once to start recording button presses on the corresponding page, press again to playback, press once more to stop playback. automation is not quantized\n\n\nSAVE/OPEN/DELETE\n\n- once you’ve created your layout you can save it by clicking the save button under 'layout'. \n\n- to open your layout click ‘open’ and select the previously saved file. never open a new preset before clearing all previously created controls. Opening a preset takes some time (monitor in patcher).\n\n- apart from individually deleting controls you can choose to delete all by clicking the button next to ‘clear all’ or by pressing the 'clear all' button on the shift page. Deleting all controls takes some time (monitor in patcher and to lefthand corner).\n\n- take a 'snapshot' of your controller's state by saving a preset.\n\n\nSERIALOSC BRIDGE\n\na M4L device that enables autofocus for 'control' is included in the zip file. simply drag it into Ableton and\nselect your grid in serialosc (should auto-connect)\n\n\nTROUBLESHOOTING\n\nNever open a layout or preset before clearing the ones that are active. This could result in ‘phantom’ controls that interfere with the intended controls. To fix this problem, Quit the app, restart and reload layout and preset.\n\nToo hasty drawing could result in double entries. This will result in ‘phantom’ controls that interfere with the intended controls. To fix this problem, Quit the app, restart and reload layout and preset.\n\nDrawing one control over the other is possible but not recommended (f.i. LED feedback will be messed up, ...)\n\nIf mapping your controller doesn't work, reselect MIDI-out path.\n\n\n\nPatch created by                                         2015\n\n\n\n",
 									"textcolor" : [ 0.65098, 0.666667, 0.662745, 1.0 ]
 								}
 
@@ -30593,8 +30593,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
-									"fontsize" : [ 12.059008 ]
+									"fontsize" : [ 12.059008 ],
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -32582,8 +32582,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
-									"fontsize" : [ 12.059008 ]
+									"fontsize" : [ 12.059008 ],
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -34426,8 +34426,8 @@
 , 							{
 								"name" : "newobjYellow-1",
 								"default" : 								{
-									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
-									"fontsize" : [ 12.059008 ]
+									"fontsize" : [ 12.059008 ],
+									"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
 								}
 ,
 								"parentstyle" : "",
@@ -38163,28 +38163,28 @@
 			}
  ],
 		"parameters" : 		{
-			"obj-399" : [ "dial", "dial", 0 ],
-			"obj-395::obj-70" : [ "umenu[1]", "umenu", 0 ],
-			"obj-395::obj-33" : [ "matrixctrl[9]", "matrixctrl", 0 ],
-			"obj-54::obj-9" : [ "number", "number", 0 ],
-			"obj-395::obj-169" : [ "number[5]", "number[3]", 0 ],
-			"obj-395::obj-163" : [ "number[4]", "number[1]", 0 ],
-			"obj-395::obj-180" : [ "number[6]", "number[2]", 5 ],
-			"obj-395::obj-115" : [ "matrixctrl[5]", "matrixctrl", 0 ],
-			"obj-395::obj-100" : [ "number[3]", "number[3]", 0 ],
-			"obj-6" : [ "faderspeed", "faderspeed", 0 ],
-			"obj-395::obj-262" : [ "matrixctrl[3]", "matrixctrl", 0 ],
 			"obj-395::obj-28" : [ "matrixctrl[8]", "matrixctrl", 0 ],
 			"obj-262" : [ "matrixctrl[1]", "matrixctrl", 0 ],
+			"obj-399" : [ "dial", "dial", 0 ],
 			"obj-395::obj-119" : [ "matrixctrl[6]", "matrixctrl", 0 ],
-			"obj-319" : [ "info", "info", 0 ],
+			"obj-395::obj-115" : [ "matrixctrl[5]", "matrixctrl", 0 ],
 			"obj-395::obj-223" : [ "number[2]", "number[2]", 5 ],
-			"obj-395::obj-92" : [ "number[1]", "number[1]", 0 ],
-			"obj-395::obj-2" : [ "matrixctrl[10]", "matrixctrl", 0 ],
+			"obj-395::obj-262" : [ "matrixctrl[3]", "matrixctrl", 0 ],
+			"obj-395::obj-163" : [ "number[4]", "number[1]", 0 ],
+			"obj-54::obj-9" : [ "number", "number", 0 ],
 			"obj-45" : [ "dial[1]", "dial", 0 ],
+			"obj-395::obj-2" : [ "matrixctrl[10]", "matrixctrl", 0 ],
 			"obj-395::obj-23" : [ "matrixctrl[7]", "matrixctrl", 0 ],
-			"obj-395::obj-106" : [ "matrixctrl[4]", "matrixctrl", 0 ],
 			"obj-395::obj-77" : [ "umenu", "umenu", 0 ],
+			"obj-395::obj-70" : [ "umenu[1]", "umenu", 0 ],
+			"obj-395::obj-106" : [ "matrixctrl[4]", "matrixctrl", 0 ],
+			"obj-6" : [ "faderspeed", "faderspeed", 0 ],
+			"obj-395::obj-33" : [ "matrixctrl[9]", "matrixctrl", 0 ],
+			"obj-395::obj-169" : [ "number[5]", "number[3]", 0 ],
+			"obj-395::obj-180" : [ "number[6]", "number[2]", 5 ],
+			"obj-395::obj-92" : [ "number[1]", "number[1]", 0 ],
+			"obj-319" : [ "info", "info", 0 ],
+			"obj-395::obj-100" : [ "number[3]", "number[3]", 0 ],
 			"obj-7" : [ "fadermode", "fadermode", 0 ]
 		}
 ,
@@ -38235,8 +38235,8 @@
 , 			{
 				"name" : "newobjYellow-1",
 				"default" : 				{
-					"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ],
-					"fontsize" : [ 12.059008 ]
+					"fontsize" : [ 12.059008 ],
+					"accentcolor" : [ 0.82517, 0.78181, 0.059545, 1.0 ]
 				}
 ,
 				"parentstyle" : "",
