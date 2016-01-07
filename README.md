@@ -1,7 +1,5 @@
 # [control] open MIDI controller platform for 128 grids
 
-Open MIDI controller platform for 128 grids
-
 CREATING CONTROLS
 
 - press and hold down the shift key
